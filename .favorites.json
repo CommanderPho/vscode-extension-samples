@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\tree-view-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\tree-view-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "PSkd8fx9pG0YQVaE"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\jupyter-server-provider-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\jupyter-server-provider-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "nUXcZBIFHgYtSbo4"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\decorator-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\decorator-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "roHFlcjhd4yvQgsI"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\contentprovider-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\contentprovider-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CIqYeiWPs3aVRXkn"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\call-hierarchy-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\call-hierarchy-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "BHtznDvqemuso5Tl"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\basic-multi-root-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\basic-multi-root-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Xrdki6eYCO5QGwcy"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\lsp-log-streaming-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\lsp-log-streaming-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CRHSU3x4irELkXYl"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\lsp-multi-server-sample\\README.md",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\lsp-multi-server-sample\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "VLzom8Kj3DTq7SNd"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\notebook-extend-markdown-renderer-sample",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\pho\\repos\\VSCode Extensions\\vscode-extension-samples\\notebook-extend-markdown-renderer-sample",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Zk2BcM9Ft6CNpj1L"
+    }
+]
